@@ -17,4 +17,4 @@ Data file names later provided in UI are related to the `data` directory.
 
 `./run.sh`
 
-`load_and_start minimal_expample.txt`
+`load_and_start minimal_example.txt`
